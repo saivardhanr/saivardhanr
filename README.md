@@ -16,7 +16,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sai vardhan reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai vardhan reddy" height="30" width="40" /></a>
 <a href="https://instagram.com/saivardhan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saivardhan05" height="30" width="40" /></a>
-  <a href="https://instagram.com/saivardhan05" target="blank"><img align="center" src="https://twitter.com/SAIVARDHANR42?s=09" alt="SAIVARDHAN REDDY" height="30" width="40" /></a>
+<a href="https://twitter.com/SAIVARDHANR42?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SAIVARDHAN REDDY" height="30" width="40" /></a>
+ 
   
 </p>
 
